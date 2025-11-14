@@ -125,7 +125,7 @@ export default function SpacePortfolio() {
         "Optimized development workflow with Vite's Hot Module Replacement (HMR) reducing reload times by 90% and integrated Tailwind CSS for rapid styling with utility-first approach"
       ],
       demo: "#",
-      github: "#"
+      github: "https://github.com/MuhammadBilal350/newportfolio"
     }
   ];
 
